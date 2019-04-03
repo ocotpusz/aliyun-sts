@@ -1,0 +1,26 @@
+{
+    "name": "octopusz/aliyun-sts",
+    "description": "使用STS授予用户临时权限操作OSS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "octopusz",
+            "email": "octopusz@yeah.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {"php":">=5.6"},
+    "autoload": {
+        "psr-4": {
+            "Octopusz\\AliyunSts\\": "src/",
+            "Octopusz\\Sts\\Request\\V20150401\\": "Sts/Request/V20150401",
+            "Octopusz\\Sts\\Core\\Auth\\": "Sts/aliyun-php-sdk-core/Auth",
+            "Octopusz\\Sts\\Core\\Exception\\": "Sts/aliyun-php-sdk-core/Exception",
+            "Octopusz\\Sts\\Core\\Profile\\": "Sts/aliyun-php-sdk-core/Profile",
+            "Octopusz\\Sts\\Core\\Request\\": "Sts/aliyun-php-sdk-core/Request",
+            "Octopusz\\Sts\\Core\\Regions\\": "Sts/aliyun-php-sdk-core/Regions",
+            "Octopusz\\Sts\\Core\\Autoloader\\": "Sts/aliyun-php-sdk-core/Autoloader",
+            "Octopusz\\Sts\\Core\\": "Sts/aliyun-php-sdk-core/"
+        }
+    }
+}

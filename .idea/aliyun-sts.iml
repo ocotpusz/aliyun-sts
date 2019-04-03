@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="Octopusz\AliyunSts\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/Request/V20150401" isTestSource="false" packagePrefix="Octopusz\Sts\Request\V20150401\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/aliyun-php-sdk-core/Exception" isTestSource="false" packagePrefix="Octopusz\Sts\Core\Exception\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/aliyun-php-sdk-core/Request" isTestSource="false" packagePrefix="Octopusz\Sts\Core\Request\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/aliyun-php-sdk-core/Auth" isTestSource="false" packagePrefix="Octopusz\Sts\Core\Auth\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/aliyun-php-sdk-core/Autoloader" isTestSource="false" packagePrefix="Octopusz\Sts\Core\Autoloader\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/aliyun-php-sdk-core/Regions" isTestSource="false" packagePrefix="Octopusz\Sts\Core\Regions\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/aliyun-php-sdk-core" isTestSource="false" packagePrefix="Octopusz\Sts\Core\" />
+      <sourceFolder url="file://$MODULE_DIR$/Sts/aliyun-php-sdk-core/Profile" isTestSource="false" packagePrefix="Octopusz\Sts\Core\Profile\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
